@@ -1,4 +1,4 @@
-# Not-ciasEsportivas
+# NoticiasEsportivas
 # 📰 Site de Notícias Esportivas (Projeto Acadêmico)
 
 Este projeto foi desenvolvido durante o **2º período da faculdade**, em parceria com [@cachorreira](https://github.com/cachorreira).  
